@@ -34,12 +34,12 @@ The command scripts use the controller script, which will delegate commands to s
 
 Place the contents of .git_cmd_sample_dir into a .git_cmd folder of your choosing.
 
+The commands within the sample folder will create bugfix and feature branches tracking origin/main on any git project that is in a sub-directory
+of the location where .git_cmd was created. Feel free to modify these scripts to your project specific branching strategy.
+
 e.g.
 
 ![How it works](./docs/usage.png)
-
-The commands within the sample folder will create bugfix and feature branches tracking origin/main on any git project that is in a sub-directory
-of the location where .git_cmd was created. Feel free to modify these scripts to your project specific branching strategy.
 
 In the example in the image, the branch creation commands e.g. ```gbf``` will delegate the creation
 to the script in ```.git_cmd```.  This directory doesn't have to be placed in your project's root path.
