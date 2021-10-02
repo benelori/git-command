@@ -3,7 +3,7 @@ Provides utilities to set up project specific git shortcuts/aliases
 
 ## How it works
 
-![How it works](./docs/how_it_works.svg)
+![How it works](./docs/how_it_works.png)
 
 ## Automatic installation
 
