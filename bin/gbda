@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Deletes all the branches locally, except the current one.
+git branch -D $(git branch)

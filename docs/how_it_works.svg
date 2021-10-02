@@ -1,0 +1,241 @@
+<svg id="graph-div" width="558px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     height="594px" style="max-width: 558.3333740234375px;" viewBox="0 0 558.3333740234375 594.0400390625">
+    <style>#graph-div {font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#333;}#graph-div
+        .error-icon{fill:#552222;}#graph-div .error-text{fill:#552222;stroke:#552222;}#graph-div
+        .edge-thickness-normal{stroke-width:2px;}#graph-div .edge-thickness-thick{stroke-width:3.5px;}#graph-div
+        .edge-pattern-solid{stroke-dasharray:0;}#graph-div .edge-pattern-dashed{stroke-dasharray:3;}#graph-div
+        .edge-pattern-dotted{stroke-dasharray:2;}#graph-div .marker{fill:#333333;stroke:#333333;}#graph-div
+        .marker.cross{stroke:#333333;}#graph-div svg{font-family:"trebuchet
+        ms",verdana,arial,sans-serif;font-size:16px;}#graph-div .label{font-family:"trebuchet
+        ms",verdana,arial,sans-serif;color:#333;}#graph-div .cluster-label text{fill:#333;}#graph-div .cluster-label
+        span{color:#333;}#graph-div .label text,#graph-div span{fill:#333;color:#333;}#graph-div .node rect,#graph-div
+        .node circle,#graph-div .node ellipse,#graph-div .node polygon,#graph-div .node
+        path{fill:#ECECFF;stroke:#9370DB;stroke-width:1px;}#graph-div .node .label{text-align:center;}#graph-div
+        .node.clickable{cursor:pointer;}#graph-div .arrowheadPath{fill:#333333;}#graph-div .edgePath
+        .path{stroke:#333333;stroke-width:2.0px;}#graph-div .flowchart-link{stroke:#333333;fill:none;}#graph-div
+        .edgeLabel{background-color:#e8e8e8;text-align:center;}#graph-div .edgeLabel
+        rect{opacity:0.5;background-color:#e8e8e8;fill:#e8e8e8;}#graph-div .cluster
+        rect{fill:#ffffde;stroke:#aaaa33;stroke-width:1px;}#graph-div .cluster text{fill:#333;}#graph-div .cluster
+        span{color:#333;}#graph-div
+        div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:"trebuchet
+        ms",verdana,arial,sans-serif;font-size:12px;background:hsl(80, 100%, 96.2745098039%);border:1px solid
+        #aaaa33;border-radius:2px;pointer-events:none;z-index:100;}#graph-div :root{--mermaid-font-family:"trebuchet
+        ms",verdana,arial,sans-serif;}
+    </style>
+    <g>
+        <g class="output">
+            <g class="clusters"></g>
+            <g class="edgePaths">
+                <g class="edgePath LS-A LE-B" style="opacity: 1;" id="L-A-B">
+                    <path class="path"
+                          d="M140.2833251953125,52L140.2833251953125,58.166666666666664C140.2833251953125,64.33333333333333,140.2833251953125,76.66666666666667,154.8777694271109,89C169.47221365890934,101.33333333333333,198.66110212250615,113.66666666666667,213.25554635430458,119.83333333333333L227.84999058610302,126"
+                          marker-end="url(#arrowhead5421)" style="fill:none"></path>
+                    <defs>
+                        <marker id="arrowhead5421" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth"
+                                markerWidth="8" markerHeight="6" orient="auto">
+                            <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath"
+                                  style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path>
+                        </marker>
+                    </defs>
+                </g>
+                <g class="edgePath LS-X LE-B" style="opacity: 1;" id="L-X-B">
+                    <path class="path"
+                          d="M419.54998779296875,52L419.54998779296875,58.166666666666664C419.54998779296875,64.33333333333333,419.54998779296875,76.66666666666667,404.9555435611703,89C390.3610993293719,101.33333333333333,361.17221086577507,113.66666666666667,346.57776663397664,119.83333333333333L331.98332240217826,126"
+                          marker-end="url(#arrowhead5422)" style="fill:none"></path>
+                    <defs>
+                        <marker id="arrowhead5422" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth"
+                                markerWidth="8" markerHeight="6" orient="auto">
+                            <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath"
+                                  style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path>
+                        </marker>
+                    </defs>
+                </g>
+                <g class="edgePath LS-B LE-C" style="opacity: 1;" id="L-B-C">
+                    <path class="path"
+                          d="M279.9166564941406,170L279.9166564941406,174.16666666666666C279.9166564941406,178.33333333333334,279.9166564941406,186.66666666666666,279.99998982747394,195.0833335876465C280.0833231608073,203.50000050862636,280.249989827474,212.00000101725266,280.3333231608073,216.25000127156582L280.4166564941407,220.500001525879"
+                          marker-end="url(#arrowhead5423)" style="fill:none"></path>
+                    <defs>
+                        <marker id="arrowhead5423" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth"
+                                markerWidth="8" markerHeight="6" orient="auto">
+                            <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath"
+                                  style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path>
+                        </marker>
+                    </defs>
+                </g>
+                <g class="edgePath LS-C LE-D" style="opacity: 1;" id="L-C-D">
+                    <path class="path"
+                          d="M222.60845984831533,410.7318103732176L208.72927124810784,426.44984340183504C194.8500826479003,442.1678764304524,167.0917054474853,473.60394248768716,153.2125168472778,495.4886421829712C139.3333282470703,517.3733418782552,139.3333282470703,529.7066752115885,139.3333282470703,535.8733418782552L139.3333282470703,542.0400085449219"
+                          marker-end="url(#arrowhead5424)" style="fill:none"></path>
+                    <defs>
+                        <marker id="arrowhead5424" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth"
+                                markerWidth="8" markerHeight="6" orient="auto">
+                            <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath"
+                                  style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path>
+                        </marker>
+                    </defs>
+                </g>
+                <g class="edgePath LS-C LE-E" style="opacity: 1;" id="L-C-E">
+                    <path class="path"
+                          d="M338.22485171748076,410.73180874394507L351.93737388810246,426.4498420441079C365.64989605872415,442.16787534427067,393.07494039996755,473.6039419445963,406.78746257058924,495.48864191142576C420.49998474121094,517.3733418782552,420.49998474121094,529.7066752115885,420.49998474121094,535.8733418782552L420.49998474121094,542.0400085449219"
+                          marker-end="url(#arrowhead5425)" style="fill:none"></path>
+                    <defs>
+                        <marker id="arrowhead5425" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth"
+                                markerWidth="8" markerHeight="6" orient="auto">
+                            <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath"
+                                  style="stroke-width: 1px; stroke-dasharray: 1px, 0px;"></path>
+                        </marker>
+                    </defs>
+                </g>
+            </g>
+            <g class="edgeLabels">
+                <g class="edgeLabel" style="opacity: 1;" transform="translate(140.2833251953125,89)">
+                    <g transform="translate(-49.78334045410156,-12)" class="label">
+                        <rect rx="0" ry="0" width="99.56668090820312" height="24"></rect>
+                        <foreignObject width="99.56668090820312" height="24">
+                            <div xmlns="http://www.w3.org/1999/xhtml"
+                                 style="display: inline-block; white-space: nowrap;">
+                                <span id="L-L-A-B" class="edgeLabel L-LS-A' L-LE-B">use controller</span>
+                            </div>
+                        </foreignObject>
+                    </g>
+                </g>
+                <g class="edgeLabel" style="opacity: 1;" transform="translate(419.54998779296875,89)">
+                    <g transform="translate(-49.78334045410156,-12)" class="label">
+                        <rect rx="0" ry="0" width="99.56668090820312" height="24"></rect>
+                        <foreignObject width="99.56668090820312" height="24">
+                            <div xmlns="http://www.w3.org/1999/xhtml"
+                                 style="display: inline-block; white-space: nowrap;">
+                                <span id="L-L-X-B" class="edgeLabel L-LS-X' L-LE-B">use controller</span>
+                            </div>
+                        </foreignObject>
+                    </g>
+                </g>
+                <g class="edgeLabel" style="opacity: 1;" transform="">
+                    <g transform="translate(0,0)" class="label">
+                        <rect rx="0" ry="0" width="0" height="0"></rect>
+                        <foreignObject width="0" height="0">
+                            <div xmlns="http://www.w3.org/1999/xhtml"
+                                 style="display: inline-block; white-space: nowrap;">
+                                <span id="L-L-B-C" class="edgeLabel L-LS-B' L-LE-C"></span>
+                            </div>
+                        </foreignObject>
+                    </g>
+                </g>
+                <g class="edgeLabel" style="opacity: 1;" transform="translate(139.3333282470703,505.0400085449219)">
+                    <g transform="translate(-131.3333282470703,-12)" class="label">
+                        <rect rx="0" ry="0" width="262.6666564941406" height="24"></rect>
+                        <foreignObject width="262.6666564941406" height="24">
+                            <div xmlns="http://www.w3.org/1999/xhtml"
+                                 style="display: inline-block; white-space: nowrap;">
+                                <span id="L-L-C-D" class="edgeLabel L-LS-C' L-LE-D">execute
+                                    /&lt;some_path/.git_cmd/gbb
+                                </span>
+                            </div>
+                        </foreignObject>
+                    </g>
+                </g>
+                <g class="edgeLabel" style="opacity: 1;" transform="translate(420.49998474121094,505.0400085449219)">
+                    <g transform="translate(-129.8333282470703,-12)" class="label">
+                        <rect rx="0" ry="0" width="259.6666564941406" height="24"></rect>
+                        <foreignObject width="259.6666564941406" height="24">
+                            <div xmlns="http://www.w3.org/1999/xhtml"
+                                 style="display: inline-block; white-space: nowrap;">
+                                <span id="L-L-C-E" class="edgeLabel L-LS-C' L-LE-E">execute
+                                    /&lt;some_path/.git_cmd/gbf
+                                </span>
+                            </div>
+                        </foreignObject>
+                    </g>
+                </g>
+            </g>
+            <g class="nodes">
+                <g class="node default" style="opacity: 1;" id="flowchart-A-6095"
+                   transform="translate(140.2833251953125,30)">
+                    <rect rx="0" ry="0" x="-115.38333129882812" y="-22" width="230.76666259765625" height="44"
+                          class="label-container"></rect>
+                    <g class="label" transform="translate(0,0)">
+                        <g transform="translate(-105.38333129882812,-12)">
+                            <foreignObject width="210.76666259765625" height="24">
+                                <div xmlns="http://www.w3.org/1999/xhtml"
+                                     style="display: inline-block; white-space: nowrap;">Branch create command: gbb
+                                </div>
+                            </foreignObject>
+                        </g>
+                    </g>
+                </g>
+                <g class="node default" style="opacity: 1;" id="flowchart-B-6096"
+                   transform="translate(279.9166564941406,148)">
+                    <rect rx="5" ry="5" x="-87.80000305175781" y="-22" width="175.60000610351562" height="44"
+                          class="label-container"></rect>
+                    <g class="label" transform="translate(0,0)">
+                        <g transform="translate(-77.80000305175781,-12)">
+                            <foreignObject width="155.60000610351562" height="24">
+                                <div xmlns="http://www.w3.org/1999/xhtml"
+                                     style="display: inline-block; white-space: nowrap;">git_cmd_controller.sh
+                                </div>
+                            </foreignObject>
+                        </g>
+                    </g>
+                </g>
+                <g class="node default" style="opacity: 1;" id="flowchart-X-6097"
+                   transform="translate(419.54998779296875,30)">
+                    <rect rx="0" ry="0" x="-113.88333129882812" y="-22" width="227.76666259765625" height="44"
+                          class="label-container"></rect>
+                    <g class="label" transform="translate(0,0)">
+                        <g transform="translate(-103.88333129882812,-12)">
+                            <foreignObject width="207.76666259765625" height="24">
+                                <div xmlns="http://www.w3.org/1999/xhtml"
+                                     style="display: inline-block; white-space: nowrap;">Branch create command: gbf
+                                </div>
+                            </foreignObject>
+                        </g>
+                    </g>
+                </g>
+                <g class="node default" style="opacity: 1;" id="flowchart-C-6100"
+                   transform="translate(279.9166564941406,344.02000427246094)">
+                    <polygon
+                            points="124.02000274658204,0 248.04000549316407,-124.02000274658204 124.02000274658204,-248.04000549316407 0,-124.02000274658204"
+                            transform="translate(-124.02000274658204,124.02000274658204)"
+                            class="label-container"></polygon>
+                    <g class="label" transform="translate(0,0)">
+                        <g transform="translate(-105.80000305175781,-12)">
+                            <foreignObject width="211.60000610351562" height="24">
+                                <div xmlns="http://www.w3.org/1999/xhtml"
+                                     style="display: inline-block; white-space: nowrap;">Search for .git_cmd directory
+                                </div>
+                            </foreignObject>
+                        </g>
+                    </g>
+                </g>
+                <g class="node default" style="opacity: 1;" id="flowchart-D-6102"
+                   transform="translate(139.3333282470703,564.0400085449219)">
+                    <rect rx="0" ry="0" x="-85.39167022705078" y="-22" width="170.78334045410156" height="44"
+                          class="label-container"></rect>
+                    <g class="label" transform="translate(0,0)">
+                        <g transform="translate(-75.39167022705078,-12)">
+                            <foreignObject width="150.78334045410156" height="24">
+                                <div xmlns="http://www.w3.org/1999/xhtml"
+                                     style="display: inline-block; white-space: nowrap;">Create bugfix branch
+                                </div>
+                            </foreignObject>
+                        </g>
+                    </g>
+                </g>
+                <g class="node default" style="opacity: 1;" id="flowchart-E-6104"
+                   transform="translate(420.49998474121094,564.0400085449219)">
+                    <rect rx="0" ry="0" x="-89.84166717529297" y="-22" width="179.68333435058594" height="44"
+                          class="label-container"></rect>
+                    <g class="label" transform="translate(0,0)">
+                        <g transform="translate(-79.84166717529297,-12)">
+                            <foreignObject width="159.68333435058594" height="24">
+                                <div xmlns="http://www.w3.org/1999/xhtml"
+                                     style="display: inline-block; white-space: nowrap;">Create feature branch
+                                </div>
+                            </foreignObject>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

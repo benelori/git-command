@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# $1 is the partial name of the branch. It will be appended to prefixes such as feature/ or bugfix/
+/bin/bash git_cmd_controller.sh gbb $1
